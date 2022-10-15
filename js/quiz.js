@@ -1,4 +1,3 @@
-import { Settings } from "./Settings.js";
 
 export class Quiz {
    constructor(response) {
